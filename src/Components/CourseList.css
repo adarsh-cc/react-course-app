@@ -1,0 +1,6 @@
+.course-border{
+    border-style: groove;
+    border-radius: 5px;
+    border-color: rgb(58, 35, 212);
+    background-image: linear-gradient(rgb(82, 132, 173),rgb(230, 173, 173));
+}
