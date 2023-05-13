@@ -32,7 +32,6 @@ function App() {
   return (
     <div className="App">
       <h1>Course App</h1>
-      <h2>This is simple crud operation</h2>
       <div className='course-input'>
           <CourseInput onAddCourse={addCourseHandler}/>
       </div>
